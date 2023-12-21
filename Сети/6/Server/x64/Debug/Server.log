@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\danil\OneDrive\Рабочий стол\Сети\6\Server\server.cpp(80,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\danil\OneDrive\Рабочий стол\Сети\6\Server\x64\Debug\Server.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Server.vcxproj -> C:\Users\danil\OneDrive\Рабочий стол\Сети\6\Server\x64\Debug\Server.exe

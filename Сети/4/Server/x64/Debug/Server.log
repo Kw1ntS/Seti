@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\danil\OneDrive\Рабочий стол\laba4\Server\server.cpp(31): warning C4715: performOperation: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\danil\OneDrive\Рабочий стол\laba4\Server\x64\Debug\Server.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Server.vcxproj -> C:\Users\danil\OneDrive\Рабочий стол\laba4\Server\x64\Debug\Server.exe
